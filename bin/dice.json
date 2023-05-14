@@ -1,0 +1,196 @@
+[
+    {
+        "options": [
+            {
+                "name": "Drive on green",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": true
+            },
+            {
+                "name": "Drive 250 yards",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": false
+            },
+            {
+                "name": "Drive out of bounds, 2nd trap, 3rd green",
+                "strokes": 3,
+                "ends": false,
+                "skip_to_putt": true
+            },
+            {
+                "name": "Drive 300 yards",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": false
+            },
+            {
+                "name": "Drive dubbed",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": false
+            },
+            {
+                "name": "Drive 150 yards",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": false
+            }
+        ]
+    },
+    {
+        "options": [
+            {
+                "name": "2nd green",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": true
+            },
+            {
+                "name": "2nd short green",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": false
+            },
+            {
+                "name": "2nd in trap",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": false
+            },
+            {
+                "name": "2 Water, 1 penalty, 4 green",
+                "strokes": 3,
+                "ends": false,
+                "skip_to_putt": true
+            },
+            {
+                "name": "2nd over green",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": false
+            },
+            {
+                "name": "2nd dubbed",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": false
+            }
+        ]
+    },
+    {
+        "options": [
+            {
+                "name": "3rd on green",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": true
+            },
+            {
+                "name": "3rd dubbed",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": false
+            },
+            {
+                "name": "3rd short of green",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": false
+            },
+            {
+                "name": "3rd holed out",
+                "strokes": 1,
+                "ends": true,
+                "skip_to_putt": false
+            },
+            {
+                "name": "3rd on green",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": true
+            },
+            {
+                "name": "3rd on green",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": true
+            }
+        ]
+    },
+    {
+        "options": [
+            {
+                "name": "4 & 5 in trap, 6 green",
+                "strokes": 3,
+                "ends": false,
+                "skip_to_putt": true
+            },
+            {
+                "name": "4th holed out",
+                "strokes": 1,
+                "ends": true,
+                "skip_to_putt": false
+            },
+            {
+                "name": "4th dubbed, 5 green",
+                "strokes": 2,
+                "ends": false,
+                "skip_to_putt": true
+            },
+            {
+                "name": "4th on green",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": true
+            },
+            {
+                "name": "4th on green",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": true
+            },
+            {
+                "name": "4th on green",
+                "strokes": 1,
+                "ends": false,
+                "skip_to_putt": true
+            }
+        ]
+    },
+    {
+        "options": [
+            {
+                "name": "1 Putt",
+                "strokes": 1,
+                "ends": true
+            },
+            {
+                "name": "1 Putt",
+                "strokes": 1,
+                "ends": true
+            },
+            {
+                "name": "2 Putt",
+                "strokes": 2,
+                "ends": true
+            },
+            {
+                "name": "2 Putt",
+                "strokes": 2,
+                "ends": true
+            },
+            {
+                "name": "2 Putt",
+                "strokes": 2,
+                "ends": true
+            },
+            {
+                "name": "3 Putt",
+                "strokes": 3,
+                "ends": true
+            }
+        ]
+    }
+]
